@@ -1,0 +1,15 @@
+{
+    "version": "0.7.9",
+    "description": "Local-first peer-to-peer network for people, agents, and AI capabilities",
+    "homepage": "https://github.com/cellmobs/bnw-releases",
+    "license": "MIT|Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cellmobs/bnw-releases/releases/download/v0.7.9/bnw-0.7.9-x86_64-pc-windows-msvc.zip",
+            "hash": "99e88ac3cf97af255a6189cf6b828ef53942d124a75b525cd1cef4cbc8e49594",
+            "extract_dir": "bnw-0.7.9-x86_64-pc-windows-msvc"
+        }
+    },
+    "bin": "bnw.exe",
+    "notes": "Run `bnw setup` to start the node at login and open the web client."
+}
