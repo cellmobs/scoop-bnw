@@ -1,13 +1,13 @@
 {
-    "version": "0.11.2",
+    "version": "0.11.3",
     "description": "Local-first peer-to-peer network for people, agents, and AI capabilities",
     "homepage": "https://github.com/cellmobs/bnw-releases",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cellmobs/bnw-releases/releases/download/v0.11.2/bnw-0.11.2-x86_64-pc-windows-msvc.zip",
-            "hash": "270590c71e5c3e3bbe512c1ad1d01467cb1ae02e44473c5a6d3cbb7e9ee2e110",
-            "extract_dir": "bnw-0.11.2-x86_64-pc-windows-msvc"
+            "url": "https://github.com/cellmobs/bnw-releases/releases/download/v0.11.3/bnw-0.11.3-x86_64-pc-windows-msvc.zip",
+            "hash": "8de7094046cd146838744af62febf136ccbca2c102fe7284ac3dc89b2b1d2bd8",
+            "extract_dir": "bnw-0.11.3-x86_64-pc-windows-msvc"
         }
     },
     "bin": "bnw.exe",
